@@ -235,7 +235,3 @@ Kedua implementasi memiliki API publik yang sama sehingga dapat digunakan secara
 | **2**    | Menambahkan operator penugasan kombinasi (`+=`, `-=`, `*=`, `//=`, `%=`, `**=`, `<<=`, `>>=`, `\|=`, `&=`, `^=`) ke kedua implementasi | Kedua file |
 
 ---
-
-## 🧑‍💻 Penulis
-
-> *Praktikum Struktur Data — Linked List*
